@@ -74,9 +74,9 @@ sections:
       view: article-grid
       columns: 1
     - block: collection
-    id: talks2
+    id: experience
     content:
-      title: Recent & Upcoming Talks2
+      title: Recent & Upcoming TalksExperience
       filters:
         folders:
           - event

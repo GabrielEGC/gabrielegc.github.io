@@ -47,7 +47,7 @@ education:
     institution: Virginia Tech
     date_start: 2021-01-01
     date_end: 2022-12-31
-    summary:
+    summary: |
       Courses included:
       - Nonlinear Control Systems
       - Adaptive Controls

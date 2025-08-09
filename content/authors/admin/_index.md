@@ -183,7 +183,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Research and Teching Assistanship
-    date: '2021-01-1'
+    date: '2021-01-01'
     awarder: Virginia Tech
     icon: virginia-tech
     summary: |

@@ -1,11 +1,10 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: Intelligent Control
+summary: AI tools to solve control problems - 5th year undergrad
 type: docs
 math: false
 tags:
-  - Python
+  - IntelligentC
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

@@ -183,11 +183,11 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Research and Teching Assistanship
-    date: '2021-2022'
+    date: '2021-01-1'
     awarder: Virginia Tech
     icon: virginia-tech
     summary: |
-      Funded the MSc. graduate studies by a series of assistanships to support me while in Virginia Tech. Labor consisted in teaching assistanship (evaluations of "Senior Design Project") and research assistanship
+      Funded the MSc. graduate studies by a series of assistanships to support me while in Virginia Tech. Labor consisted in teaching assistanship (evaluations of "Senior Design Project") and research assistanship. Award period: 2021–2022.
   - title: “Julio Urbina” Outstanding Member Award in Research and Projects IEEE UNI 2017
     date: '2017-12-31'
     awarder: National University of Engineering

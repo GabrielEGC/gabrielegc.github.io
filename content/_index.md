@@ -73,7 +73,7 @@ sections:
     design:
       view: article-grid
       columns: 1
-    - block: collection
+  - block: resume-experience
     id: experience
     content:
       title: Recent & Upcoming TalksExperience

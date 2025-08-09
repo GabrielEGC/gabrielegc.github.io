@@ -1,3 +1,7 @@
+_build:
+  render: never
+  list: never
+
 ---
 title: 'Experience'
 date: 2023-10-24

@@ -112,26 +112,27 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: resume-projects
-    id: projects
+  - block: collection
     content:
-      title: Projects_Title
+      title: Selected Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
-          - event
+          - project
     design:
       view: article-grid
-      columns: 1
-  - block: resume-teaching
+      fill_image: false
+      columns: 3
+  - block: collection
     id: teaching
     content:
-      title: Teaching_Title
+      title: Teaching
       filters:
         folders:
-          - event
+          - teaching
     design:
       view: article-grid
-      columns: 1
+      columns: 2
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

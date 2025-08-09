@@ -1,5 +1,8 @@
 ---
 title: 'Projects'
+_build:
+  render: never
+  list: never
 date: 2024-05-19
 type: landing
 

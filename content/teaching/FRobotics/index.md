@@ -3,8 +3,9 @@ title: Foundations of Robotics
 summary: Introduction to Robotics - 4th year undergrad 
 type: docs
 math: false
+show_date: false
 tags:
-  - FRobotics
+  - MT4001
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

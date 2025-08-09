@@ -3,8 +3,9 @@ title: Nonlinear Control Systems
 summary: Introduction to Robotics - 4th year undergrad
 type: docs
 math: false
+show_date: false
 tags:
-  - NonlinearC
+  - EL5312
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

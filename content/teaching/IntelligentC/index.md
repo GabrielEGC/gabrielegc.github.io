@@ -3,8 +3,9 @@ title: Intelligent Control
 summary: AI tools to solve control problems - 5th year undergrad
 type: docs
 math: false
+show_date: false
 tags:
-  - IntelligentC
+  - MT5307
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

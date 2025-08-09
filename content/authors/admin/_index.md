@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Professor
+role: '<a href="https://cris.utec.edu.pe/en/organisations/departamento-de-ingeniería-electrónica-y-mecatrónica-2/" target="_blank">Professor at Department of Electrical and Mechatronics Engineering</a>'
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

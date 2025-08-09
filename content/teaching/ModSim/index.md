@@ -3,8 +3,9 @@ title: Modelling and Simulation
 summary: Introduction to Controls for different types of systems - 3rd year undergrad
 type: docs
 math: false
+show_date: false
 tags:
-  - ModSim
+  - ModSim EL2014
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

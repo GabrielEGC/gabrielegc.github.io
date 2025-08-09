@@ -3,8 +3,9 @@ title: Process Control
 summary: Advanced control methods for research and industry - 4th year undergrad
 type: docs
 math: false
+show_date: false
 tags:
-  - ProcessC
+  - EL3303
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

@@ -68,7 +68,6 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-01-01
-    date_end: Present
     summary: |
       Responsibilities include:
       - Teaching engineering courses: Modelling and Simulation, Foundations of Robotics, Process Control, Nonlinear Control, Intelligent Control.

@@ -1,186 +1,202 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Gabriel Enrique Garcia Chavez
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Gabriel
+last_name: Garcia
 
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
+# Is this the primary user of the site?x
 superuser: true
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: UTEC
+    url: https://utec.edu.pe/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ggarciac@utec.edu.pe'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/ggarciac
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/GabrielEGC
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/gabrielgarciachavez/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?hl=es&user=eIKuPVMAAAAJ
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+
+  - Legged Locomotion of Robots
+  - Optimization-based Controllers
+  - Trajectory Optimization
+  - Deep Reinforcement Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc. Mechanical Engineering
+    institution: Virginia Tech
+    date_start: 2021-01-01
+    date_end: 2022-12-31
+    summary:
+      Courses included:
+      - Nonlinear Control Systems
+      - Adaptive Controls
+      - Convex Optimization
+  - area: BSc. Mechatronics Engineering
+    institution: National University of Engineering
+    date_start: 2015-03-01
+    date_end: 2018-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Courses included:
+      - Nonlinear Controls
+      - Analysis and Control of Robots
+      - Artificial Intelligence
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Professor at ELMT Department
+    company_name: University of Engineering and Technology
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-01-01
+    date_end: Present
+    summary: |
+      Responsibilities include:
+      - Teaching engineering courses: Modelling and Simulation, Foundations of Robotics, Process Control, Nonlinear Control, Intelligent Control.
+      - Co-advising undergrad thesis: Cooling-mechanism for motors of quadrupedal robots, Optimization for dynamic feasibility of LLM-generated trajectories of a NAO Robot
+  - position: Professor at FIM Department
+    company_name: National University of Engineering
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-01-01
+    date_end: 2024-12-31
+    summary: |
+      Responsibilities include:
+      - Teaching engineering courses: Nonlinear Control, Advanced Control.
+      - Advising a undergrad research project: Design of a Soft-Robotics Glove for Hand Rehabilitation 
+  - position: Graduate Research Assistant
+    company_name: Virginia Tech
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2022-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Research on sliding contacts for robots and sensitivities on trajectory optimization.
+      - Evaluating students at "Senior Design Project" 4th-year undergrad.
+  - position: Research Intern
+    company_name: IHMC
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-08-05
+    date_end: '2020-12-31'
+    summary: |2-
+      Responsibilities include:
+      - Develop control strategies for reduced-models of robot.
+      - Modifying Mini-Cheetah source code for making it able to jump, and walk over slopes.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
+      - name: C++
+        description: ''
+        percent: 90
+        icon: code-bracket
       - name: Python
         description: ''
-        percent: 80
+        percent: 85
         icon: code-bracket
-      - name: Data Science
+      - name: MATLAB / Simulink
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 90
+        icon: beaker
+      - name: ROS2 & LCM
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 75
+        icon: squares-2x2
+      - name: Drake (robotics)
+        description: ''
+        percent: 70
+        icon: cube
+      - name: Linux
+        description: ''
+        percent: 80
+        icon: command-line
+      - name: Control & MPC
+        description: 'Nonlinear control, model predictive control, trajectory optimization'
+        percent: 90
+        icon: presentation-chart-line
+      - name: Reinforcement Learning (ongoing)
+        description: ''
+        percent: 60
+        icon: sparkles
+      - name: LaTeX
+        description: ''
+        percent: 85
+        icon: document-text
+      - name: LabVIEW & Unity
+        description: ''
+        percent: 60
+        icon: squares-plus
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: Swimming
         description: ''
         percent: 80
-        icon: camera
+        icon: waves
+      - name: Chess
+        description: ''
+        percent: 70
+        icon: puzzle-piece
+      - name: Guitar & Music
+        description: ''
+        percent: 85
+        icon: musical-note
+      - name: Project Euler coding
+        description: ''
+        percent: 75
+        icon: cpu-chip
+      - name: Animal welfare (dogs)
+        description: ''
+        percent: 80
+        icon: paw-print
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English (Fluent)
+  - name: Spanish (Native)
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Research and Teching Assistanship
+    date: '2021-2022'
+    awarder: Virginia Tech
+    icon: virginia-tech
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
+      Funded the MSc. graduate studies by a series of assistanships to support me while in Virginia Tech. Labor consisted in teaching assistanship (evaluations of "Senior Design Project") and research assistanship
+  - title: “Julio Urbina” Outstanding Member Award in Research and Projects IEEE UNI 2017
+    date: '2017-12-31'
+    awarder: National University of Engineering
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      For scientific contributions in undergrad research projects along 2017 at IEEE UNI.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gabriel Garcia is a professor of control and robotics at University of Engineering and Technology - UTEC. His research interests include nonlinear/online optimization, model-reduced robotics, floating-base dynamics and is currently researching on Deep Reinforcement Learning.

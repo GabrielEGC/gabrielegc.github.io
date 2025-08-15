@@ -3,7 +3,7 @@ title: Intelligent Control
 summary: AI tools to solve control problems - 5th year undergrad
 type: docs
 math: false
-show_date: false
+date: '2025-03-01'
 tags:
   - MT5307
 image:

@@ -3,7 +3,7 @@ title: Nonlinear Control Systems
 summary: Introduction to Robotics - 4th year undergrad
 type: docs
 math: false
-show_date: false
+date: '2025-03-01'
 tags:
   - EL5312
 image:

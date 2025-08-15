@@ -3,7 +3,7 @@ title: Process Control
 summary: Advanced control methods for research and industry - 4th year undergrad
 type: docs
 math: false
-show_date: false
+date: '2024-03-01'
 tags:
   - EL3303
 image:

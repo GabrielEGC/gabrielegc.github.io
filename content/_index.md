@@ -96,7 +96,6 @@ sections:
       columns: 1
   - block: collection
     id: teaching
-    show_date: false
     content:
       title: Teaching
       filters:

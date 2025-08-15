@@ -1,13 +1,11 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: "Nonlinear Control Labs"
+date: 2025-02-01
+external_link: https://github.com/nonlinearcontrollabs
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Nonlinear Control
+  - OpenManipulator
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
-
+Implementing nonlinear controllers in hardware using C++ code in a 4dof Dynamixel OpenManipulator-X robot. Controllers: Feedback Linearization, Trajectory Optimization, Sliding Mode Control and Adaptive Control.
 <!--more-->

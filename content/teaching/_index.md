@@ -2,6 +2,7 @@
 title: Teaching
 summary: My courses
 type: landing
+show_date: false
 
 cascade:
   - _target:
@@ -12,6 +13,7 @@ cascade:
 sections:
   - block: collection
     id: teaching
+    show_date: false
     content:
       title: Teaching
       filters:

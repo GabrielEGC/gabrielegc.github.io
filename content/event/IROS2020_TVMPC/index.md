@@ -1,7 +1,7 @@
 ---
-title: IROS 2020 Time-Varying MPC for Dynamic Jumps with Quadruped Robots
+title: IROS 2020: Time-Varying MPC for Dynamic Jumps with Quadruped Robots
 
-event: IROS 2020
+event: IROS 2020: MiniCheetah Workshop
 event_url: https://www.naverlabs.com/mini-cheetah
 
 summary: Guest talk on behalf of Dr. Jerry Pratt at IHMC.
@@ -23,7 +23,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 #links:

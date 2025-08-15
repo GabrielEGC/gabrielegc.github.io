@@ -78,7 +78,7 @@ sections:
     anchor: projects
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Here are some projects I have worked on over the years.
       filters:
         folders:
           - project
@@ -86,6 +86,16 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+  - block: resume-experience
+    id: experience
+    content:
+      title: Experience
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
   - block: collection
     id: teaching
     content:

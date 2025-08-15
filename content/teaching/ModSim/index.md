@@ -5,7 +5,7 @@ type: docs
 math: false
 date: '2024-03-01'
 tags:
-  - ModSim EL2014
+  - EL2014
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

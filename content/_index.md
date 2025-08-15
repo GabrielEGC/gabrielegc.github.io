@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I'm a researcher focused on deploying highly dynamic robots in the real world. Tasks typically performed by humans, such as parkour, jumping, and natural gymnastics, are among my research goals for both quadrupedal and bipedal robots.
+        My main tools are nonlinear and optimization-based controllers, but recently, reinforcement learning has shown promising results. I'm currently working on integrating it with modern robotic controllers such as MPCs and WBCs.
+        Feel free to reach out if you're interested in collaborating!
     design:
       columns: '1'
   - block: collection

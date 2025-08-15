@@ -1,6 +1,6 @@
 ---
 title: Nonlinear Control Systems
-summary: Introduction to Robotics - 4th year undergrad
+summary: Modern control methods for nonlinear systems - 5th year undergrad
 type: docs
 math: false
 date: '2025-03-01'

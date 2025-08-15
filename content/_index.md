@@ -86,16 +86,6 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
-  - block: resume-experience
-    id: experience
-    content:
-      title: Recent & Upcoming TalksExperience
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
   - block: collection
     id: teaching
     content:

@@ -16,8 +16,8 @@ sections:
     id: projects
     anchor: projects
     content:
-      title: Selected Projects
-      text: Here are some projects I have worked on over the years.
+      title: Recent Projects
+      text: Here are some projects I have worked on this year.
       filters:
         folders:
           - project

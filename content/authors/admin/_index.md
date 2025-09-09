@@ -82,6 +82,27 @@ work:
       Responsibilities include:
       - Teaching engineering courses: Nonlinear Control, Advanced Control.
       - Advising a undergrad research project: Design of a Soft-Robotics Glove for Hand Rehabilitation 
+  - position: Freelance Programmer
+    company_name: Upwork
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-07-01
+    date_end: 2024-03-01
+    summary: |
+      Engaged in diverse projects aimed at addressing complex technical challenges. Some research projects include:
+      - Improving Energy Efficiency of Electric Axle with MPC.
+      - Design, Modelling, and Locomotion Control of Crawling Robots.
+      - Pseudospectral Optimal Control for orbital transfer using NonLinear Optimization
+      - Mathematical Mesh Deformation for Enhanced 3D PDE Simulation Techniques.
+
+  - position: Research Intern
+    company_name: IIT
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-01-01
+    date_end: 2023-05-01
+    summary: |
+      - Reviewed literature of control methods for the quadrupedal robot HyQ in order to upgrade it to current control methods for legged robots (MPC and WBC).
   - position: Graduate Research Assistant
     company_name: Virginia Tech
     company_url: ''

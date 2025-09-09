@@ -1,21 +1,21 @@
 ---
-title: 'MPC-based Locomotion Control of Bipedal Robots with Line-Feet Contact using Centroidal Dynamics'
+title: 'Torque Control in Position-Controlled Robots using an Inverse Dynamic Task'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Gabriel Garcia
-  - Robert Griffin
-  - Jerry Pratt
+  - Emanuel Muñoz-Panduro
+  - Oscar Ramos
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2021-07-19T00:00:00Z'
-doi: '10.1109/HUMANOIDS47582.2021.9555775'
+date: '2020-12-19T00:00:00Z'
+doi: '10.1109/CDC42340.2020.9303751'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -26,17 +26,19 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In 2020 IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids)
+publication: In 2020 59th IEEE Conference on Decision and Control (CDC)
 #publication_short: In *Humanoids*
 
-abstract: Recently we have seen a lot of progress done in dynamic locomotion with quadrupedal robots using the Single-Rigid Body Model, which contains simplified dynamics that considers the robot a single “potato”. This approach performs poorly when the robot contains heavy links, because those links take a considerable momentum to move and because they also change the overall inertia of the robot. In this paper, we generalize the SRBM using the Centroidal Dynamics model plus an orientation variable, whose dynamics contain the linearized effects of other links’ momentum and variable inertia. We are designing this Enhanced Centroidal Dynamics using the Full-Body Dynamics, so the trajectories we obtain are instantaneously dynamically feasible. We show our approach in a full-body dynamic simulation of the MIT Humanoid, a biped with line-feet contact, and we show a simplification in the modeling of the wrenches that can be applied with line-feet.
+abstract: Many position-controlled robots are being used in research and industry in the world, but many tasks require torque control instead of position control, in order to exert specific forces in the environment. This is often called the admittance control problem. In this paper, we present a solution for position-controlled robots by estimating their hidden internal control law using Neural Networks and mitigating the fitting errors with an integral term in the control law. Compared to classical approaches, we no longer consider that the control law is decoupled between motors but it can be highly sophisticated and nonlinear. We show our results in simulation by performing torque tracking and force-position task control.
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Model Predictive Control
-  - Convex Optimization
+  - Torque Control
+  - Robotics
+  - Machine Learning
 
 # Display this page in the Featured widget?
 featured: true
@@ -58,7 +60,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'MIT Biped'
+  caption: 'Force-Position hybrid arm model'
   focal_point: ''
   preview_only: false
 

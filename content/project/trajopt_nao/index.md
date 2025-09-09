@@ -1,7 +1,7 @@
 ---
 title: Trajectory Optimization for dynamic feasibility of LLM-derived human-like movements on a NAO robot
 date: 2025-04-01
-external_link: https://github.com/trajopt_nao
+external_link: https://github.com/GabrielEGC/TrajOptNao
 tags:
   - Trajectory Optimization
   - Large Language Models

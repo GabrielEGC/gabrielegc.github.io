@@ -80,7 +80,7 @@ work:
     date_end: 2024-12-31
     summary: |
       Responsibilities include:
-      - Teaching engineering courses: Nonlinear Control, Advanced Control.
+      - Teaching engineering courses: Nonlinear Controls, Advanced Control.
       - Advising a undergrad research project: Design of a Soft-Robotics Glove for Hand Rehabilitation 
   - position: Freelance Programmer
     company_name: Upwork
@@ -99,7 +99,7 @@ work:
     company_name: IIT
     company_url: ''
     company_logo: ''
-    date_start: 2023-01-01
+    date_start: 2023-02-01
     date_end: 2023-05-01
     summary: |
       - Reviewed literature of control methods for the quadrupedal robot HyQ in order to upgrade it to current control methods for legged robots (MPC and WBC).

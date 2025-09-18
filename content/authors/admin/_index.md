@@ -82,8 +82,8 @@ work:
       Responsibilities include:
       - Teaching engineering courses: Nonlinear Controls, Advanced Control.
       - Advising a undergrad research project: Design of a Soft-Robotics Glove for Hand Rehabilitation 
-  - position: Freelance Programmer
-    company_name: Upwork
+  - position: Software Programmer
+    company_name: Freelance at Upwork
     company_url: ''
     company_logo: ''
     date_start: 2023-07-01
